@@ -33,7 +33,8 @@ I’m a final-year B.Tech student in Computer Science and Engineering with a min
 
 ---
 
-### ⚡ Fun fact: I can fly drones, deploy servers, and still forget where I kept my coffee.
+### ⚡ Fun fact
+- I can fly drones, deploy servers, and still forget where I kept my coffee.
 
 ---
 
