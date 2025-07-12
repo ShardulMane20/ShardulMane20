@@ -33,6 +33,10 @@ I’m a final-year B.Tech student in Computer Science and Engineering with a min
 
 ---
 
+### ⚡ Fun fact: I can fly drones, deploy servers, and still forget where I kept my coffee.
+
+---
+
 ### 📬 Let's Connect
 - 📧 Email: shardulmane369@gmail.com  
 - 🔗 LinkedIn: [shardul-mane-4a26a2256](https://linkedin.com/in/shardul-mane-4a26a2256)  
